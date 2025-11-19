@@ -1,0 +1,80 @@
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\02. Dependency Inversion Principle\DIExample\bin\Debug\net9.0\appsettings.Development.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\02. Dependency Inversion Principle\DIExample\bin\Debug\net9.0\appsettings.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\02. Dependency Inversion Principle\DIExample\bin\Debug\net9.0\DIExample.staticwebassets.runtime.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\02. Dependency Inversion Principle\DIExample\bin\Debug\net9.0\DIExample.staticwebassets.endpoints.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\02. Dependency Inversion Principle\DIExample\bin\Debug\net9.0\DIExample.exe
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\02. Dependency Inversion Principle\DIExample\bin\Debug\net9.0\DIExample.deps.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\02. Dependency Inversion Principle\DIExample\bin\Debug\net9.0\DIExample.runtimeconfig.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\02. Dependency Inversion Principle\DIExample\bin\Debug\net9.0\DIExample.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\02. Dependency Inversion Principle\DIExample\bin\Debug\net9.0\DIExample.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\02. Dependency Inversion Principle\DIExample\bin\Debug\net9.0\ServiceContracts.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\02. Dependency Inversion Principle\DIExample\bin\Debug\net9.0\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\02. Dependency Inversion Principle\DIExample\bin\Debug\net9.0\Services.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\02. Dependency Inversion Principle\DIExample\bin\Debug\net9.0\ServiceContracts.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\02. Dependency Inversion Principle\DIExample\obj\Debug\net9.0\DIExample.csproj.AssemblyReference.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\02. Dependency Inversion Principle\DIExample\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\02. Dependency Inversion Principle\DIExample\obj\Debug\net9.0\DIExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\02. Dependency Inversion Principle\DIExample\obj\Debug\net9.0\DIExample.AssemblyInfoInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\02. Dependency Inversion Principle\DIExample\obj\Debug\net9.0\DIExample.AssemblyInfo.cs
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\02. Dependency Inversion Principle\DIExample\obj\Debug\net9.0\DIExample.csproj.CoreCompileInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\02. Dependency Inversion Principle\DIExample\obj\Debug\net9.0\DIExample.MvcApplicationPartsAssemblyInfo.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\02. Dependency Inversion Principle\DIExample\obj\Debug\net9.0\DIExample.RazorAssemblyInfo.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\02. Dependency Inversion Principle\DIExample\obj\Debug\net9.0\DIExample.RazorAssemblyInfo.cs
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\02. Dependency Inversion Principle\DIExample\obj\Debug\net9.0\DIExample.sourcelink.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\02. Dependency Inversion Principle\DIExample\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\02. Dependency Inversion Principle\DIExample\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\02. Dependency Inversion Principle\DIExample\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\02. Dependency Inversion Principle\DIExample\obj\Debug\net9.0\scopedcss\bundle\DIExample.styles.css
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\02. Dependency Inversion Principle\DIExample\obj\Debug\net9.0\compressed\xb270eg7ac-{0}-zsgxx0ffs5-zsgxx0ffs5.gz
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\02. Dependency Inversion Principle\DIExample\obj\Debug\net9.0\staticwebassets.build.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\02. Dependency Inversion Principle\DIExample\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\02. Dependency Inversion Principle\DIExample\obj\Debug\net9.0\staticwebassets.development.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\02. Dependency Inversion Principle\DIExample\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\02. Dependency Inversion Principle\DIExample\obj\Debug\net9.0\swae.build.ex.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\02. Dependency Inversion Principle\DIExample\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\02. Dependency Inversion Principle\DIExample\obj\Debug\net9.0\DIExample.csproj.Up2Date
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\02. Dependency Inversion Principle\DIExample\obj\Debug\net9.0\DIExample.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\02. Dependency Inversion Principle\DIExample\obj\Debug\net9.0\refint\DIExample.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\02. Dependency Inversion Principle\DIExample\obj\Debug\net9.0\DIExample.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\02. Dependency Inversion Principle\DIExample\obj\Debug\net9.0\DIExample.genruntimeconfig.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\02. Dependency Inversion Principle\DIExample\obj\Debug\net9.0\ref\DIExample.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\07. Transient, Scoped, Singleton - P2\DIExample\obj\Debug\net9.0\DIExample.csproj.AssemblyReference.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\07. Transient, Scoped, Singleton - P2\DIExample\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\07. Transient, Scoped, Singleton - P2\DIExample\obj\Debug\net9.0\DIExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\07. Transient, Scoped, Singleton - P2\DIExample\obj\Debug\net9.0\DIExample.AssemblyInfoInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\07. Transient, Scoped, Singleton - P2\DIExample\obj\Debug\net9.0\DIExample.AssemblyInfo.cs
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\07. Transient, Scoped, Singleton - P2\DIExample\obj\Debug\net9.0\DIExample.csproj.CoreCompileInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\07. Transient, Scoped, Singleton - P2\DIExample\obj\Debug\net9.0\DIExample.MvcApplicationPartsAssemblyInfo.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\07. Transient, Scoped, Singleton - P2\DIExample\obj\Debug\net9.0\DIExample.RazorAssemblyInfo.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\07. Transient, Scoped, Singleton - P2\DIExample\obj\Debug\net9.0\DIExample.RazorAssemblyInfo.cs
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\07. Transient, Scoped, Singleton - P2\DIExample\obj\Debug\net9.0\DIExample.sourcelink.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\07. Transient, Scoped, Singleton - P2\DIExample\obj\Debug\net9.0\DIExample.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\07. Transient, Scoped, Singleton - P2\DIExample\obj\Debug\net9.0\refint\DIExample.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\07. Transient, Scoped, Singleton - P2\DIExample\obj\Debug\net9.0\DIExample.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\07. Transient, Scoped, Singleton - P2\DIExample\bin\Debug\net9.0\appsettings.Development.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\07. Transient, Scoped, Singleton - P2\DIExample\bin\Debug\net9.0\appsettings.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\07. Transient, Scoped, Singleton - P2\DIExample\bin\Debug\net9.0\DIExample.staticwebassets.endpoints.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\07. Transient, Scoped, Singleton - P2\DIExample\bin\Debug\net9.0\DIExample.staticwebassets.runtime.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\07. Transient, Scoped, Singleton - P2\DIExample\bin\Debug\net9.0\DIExample.exe
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\07. Transient, Scoped, Singleton - P2\DIExample\bin\Debug\net9.0\DIExample.deps.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\07. Transient, Scoped, Singleton - P2\DIExample\bin\Debug\net9.0\DIExample.runtimeconfig.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\07. Transient, Scoped, Singleton - P2\DIExample\bin\Debug\net9.0\DIExample.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\07. Transient, Scoped, Singleton - P2\DIExample\bin\Debug\net9.0\DIExample.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\07. Transient, Scoped, Singleton - P2\DIExample\bin\Debug\net9.0\ServiceContracts.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\07. Transient, Scoped, Singleton - P2\DIExample\bin\Debug\net9.0\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\07. Transient, Scoped, Singleton - P2\DIExample\bin\Debug\net9.0\Services.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\07. Transient, Scoped, Singleton - P2\DIExample\bin\Debug\net9.0\ServiceContracts.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\07. Transient, Scoped, Singleton - P2\DIExample\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\07. Transient, Scoped, Singleton - P2\DIExample\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\07. Transient, Scoped, Singleton - P2\DIExample\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\07. Transient, Scoped, Singleton - P2\DIExample\obj\Debug\net9.0\scopedcss\bundle\DIExample.styles.css
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\07. Transient, Scoped, Singleton - P2\DIExample\obj\Debug\net9.0\compressed\xb270eg7ac-{0}-zsgxx0ffs5-zsgxx0ffs5.gz
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\07. Transient, Scoped, Singleton - P2\DIExample\obj\Debug\net9.0\staticwebassets.build.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\07. Transient, Scoped, Singleton - P2\DIExample\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\07. Transient, Scoped, Singleton - P2\DIExample\obj\Debug\net9.0\staticwebassets.development.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\07. Transient, Scoped, Singleton - P2\DIExample\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\07. Transient, Scoped, Singleton - P2\DIExample\obj\Debug\net9.0\swae.build.ex.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\07. Transient, Scoped, Singleton - P2\DIExample\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\07. Transient, Scoped, Singleton - P2\DIExample\obj\Debug\net9.0\DIExample.csproj.Up2Date
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\07. Transient, Scoped, Singleton - P2\DIExample\obj\Debug\net9.0\DIExample.genruntimeconfig.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\07. Transient, Scoped, Singleton - P2\DIExample\obj\Debug\net9.0\ref\DIExample.dll

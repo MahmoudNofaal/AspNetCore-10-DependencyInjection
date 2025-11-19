@@ -1,0 +1,16 @@
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\02. Dependency Inversion Principle\Services\bin\Debug\net9.0\Services.deps.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\02. Dependency Inversion Principle\Services\bin\Debug\net9.0\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\02. Dependency Inversion Principle\Services\bin\Debug\net9.0\Services.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\02. Dependency Inversion Principle\Services\bin\Debug\net9.0\ServiceContracts.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\02. Dependency Inversion Principle\Services\bin\Debug\net9.0\ServiceContracts.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\02. Dependency Inversion Principle\Services\obj\Debug\net9.0\Services.csproj.AssemblyReference.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\02. Dependency Inversion Principle\Services\obj\Debug\net9.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\02. Dependency Inversion Principle\Services\obj\Debug\net9.0\Services.AssemblyInfoInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\02. Dependency Inversion Principle\Services\obj\Debug\net9.0\Services.AssemblyInfo.cs
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\02. Dependency Inversion Principle\Services\obj\Debug\net9.0\Services.csproj.CoreCompileInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\02. Dependency Inversion Principle\Services\obj\Debug\net9.0\Services.sourcelink.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\02. Dependency Inversion Principle\Services\obj\Debug\net9.0\Services.csproj.Up2Date
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\02. Dependency Inversion Principle\Services\obj\Debug\net9.0\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\02. Dependency Inversion Principle\Services\obj\Debug\net9.0\refint\Services.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\02. Dependency Inversion Principle\Services\obj\Debug\net9.0\Services.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\02. Dependency Inversion Principle\Services\obj\Debug\net9.0\ref\Services.dll

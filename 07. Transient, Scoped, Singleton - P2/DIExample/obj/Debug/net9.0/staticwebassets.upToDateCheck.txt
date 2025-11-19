@@ -1,0 +1,2 @@
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\07. Transient, Scoped, Singleton - P2\DIExample\wwwroot\StyleSheet.css
+wwwroot\StyleSheet.css

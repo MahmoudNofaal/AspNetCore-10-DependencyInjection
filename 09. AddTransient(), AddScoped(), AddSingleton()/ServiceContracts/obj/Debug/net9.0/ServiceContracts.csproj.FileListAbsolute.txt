@@ -1,0 +1,24 @@
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\02. Dependency Inversion Principle\ServiceContracts\bin\Debug\net9.0\ServiceContracts.deps.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\02. Dependency Inversion Principle\ServiceContracts\bin\Debug\net9.0\ServiceContracts.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\02. Dependency Inversion Principle\ServiceContracts\bin\Debug\net9.0\ServiceContracts.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\02. Dependency Inversion Principle\ServiceContracts\obj\Debug\net9.0\ServiceContracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\02. Dependency Inversion Principle\ServiceContracts\obj\Debug\net9.0\ServiceContracts.AssemblyInfoInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\02. Dependency Inversion Principle\ServiceContracts\obj\Debug\net9.0\ServiceContracts.AssemblyInfo.cs
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\02. Dependency Inversion Principle\ServiceContracts\obj\Debug\net9.0\ServiceContracts.csproj.CoreCompileInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\02. Dependency Inversion Principle\ServiceContracts\obj\Debug\net9.0\ServiceContracts.sourcelink.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\02. Dependency Inversion Principle\ServiceContracts\obj\Debug\net9.0\ServiceContracts.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\02. Dependency Inversion Principle\ServiceContracts\obj\Debug\net9.0\refint\ServiceContracts.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\02. Dependency Inversion Principle\ServiceContracts\obj\Debug\net9.0\ServiceContracts.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\02. Dependency Inversion Principle\ServiceContracts\obj\Debug\net9.0\ref\ServiceContracts.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\07. Transient, Scoped, Singleton - P2\ServiceContracts\bin\Debug\net9.0\ServiceContracts.deps.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\07. Transient, Scoped, Singleton - P2\ServiceContracts\bin\Debug\net9.0\ServiceContracts.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\07. Transient, Scoped, Singleton - P2\ServiceContracts\bin\Debug\net9.0\ServiceContracts.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\07. Transient, Scoped, Singleton - P2\ServiceContracts\obj\Debug\net9.0\ServiceContracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\07. Transient, Scoped, Singleton - P2\ServiceContracts\obj\Debug\net9.0\ServiceContracts.AssemblyInfoInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\07. Transient, Scoped, Singleton - P2\ServiceContracts\obj\Debug\net9.0\ServiceContracts.AssemblyInfo.cs
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\07. Transient, Scoped, Singleton - P2\ServiceContracts\obj\Debug\net9.0\ServiceContracts.csproj.CoreCompileInputs.cache
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\07. Transient, Scoped, Singleton - P2\ServiceContracts\obj\Debug\net9.0\ServiceContracts.sourcelink.json
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\07. Transient, Scoped, Singleton - P2\ServiceContracts\obj\Debug\net9.0\ServiceContracts.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\07. Transient, Scoped, Singleton - P2\ServiceContracts\obj\Debug\net9.0\refint\ServiceContracts.dll
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\07. Transient, Scoped, Singleton - P2\ServiceContracts\obj\Debug\net9.0\ServiceContracts.pdb
+D:\Github Repos\DotNET(Deep-Dive)\AspNetCore Mastery\10.  Dependency Injection\07. Transient, Scoped, Singleton - P2\ServiceContracts\obj\Debug\net9.0\ref\ServiceContracts.dll
